@@ -1,6 +1,6 @@
 # Spinodal Decomposition Simulation
 
-Course project for PHYS 512 (Computational Physics with Appications), McGill University, Fall 2023
+Course project for PHYS 512 (Computational Physics with Applications), McGill University, Fall 2023
 
 Team name: The NumbPies
 
