@@ -2,7 +2,7 @@
 
 Course project for PHYS 512 (Computational Physics with Applications), McGill University, Fall 2023
 
-Team name: The NumPies
+Team name: The NumbPies
 
 Collaborators: <br />
 Angela Moskal <br />
